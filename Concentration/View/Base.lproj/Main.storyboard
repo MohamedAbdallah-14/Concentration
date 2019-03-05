@@ -34,6 +34,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Dbo-0q-wwb">
                                                 <rect key="frame" x="0.0" y="0.0" width="79.666666666666671" height="75.333333333333329"/>
                                                 <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3tB-0e-Psz"/>
                                                 </connections>
@@ -41,6 +42,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YQC-UN-sVf">
                                                 <rect key="frame" x="87.666666666666671" y="0.0" width="80.000000000000014" height="75.333333333333329"/>
                                                 <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2ZF-Kq-RGh"/>
                                                 </connections>
@@ -48,6 +50,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VCP-tv-u9v">
                                                 <rect key="frame" x="175.66666666666666" y="0.0" width="79.666666666666657" height="75.333333333333329"/>
                                                 <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="bgy-Wb-6Yl"/>
                                                 </connections>
@@ -55,6 +58,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SWh-K8-hte">
                                                 <rect key="frame" x="263.33333333333331" y="0.0" width="79.666666666666686" height="75.333333333333329"/>
                                                 <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CDs-qi-g2z"/>
                                                 </connections>
@@ -67,6 +71,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vSb-9O-9oh">
                                                 <rect key="frame" x="0.0" y="0.0" width="79.666666666666671" height="75.333333333333329"/>
                                                 <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="YdE-W8-sR5"/>
                                                 </connections>
@@ -74,6 +79,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vIT-f5-pZS">
                                                 <rect key="frame" x="87.666666666666671" y="0.0" width="80.000000000000014" height="75.333333333333329"/>
                                                 <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="btR-Kl-oe9"/>
                                                 </connections>
@@ -81,6 +87,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wBU-yg-4Rp">
                                                 <rect key="frame" x="175.66666666666666" y="0.0" width="79.666666666666657" height="75.333333333333329"/>
                                                 <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Wmp-pG-JKp"/>
                                                 </connections>
@@ -88,6 +95,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bd6-5v-BMm">
                                                 <rect key="frame" x="263.33333333333331" y="0.0" width="79.666666666666686" height="75.333333333333329"/>
                                                 <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="7av-br-YUp"/>
                                                 </connections>
@@ -100,6 +108,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QW9-Ke-Xk7">
                                                 <rect key="frame" x="0.0" y="0.0" width="79.666666666666671" height="75"/>
                                                 <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="a66-St-duO"/>
                                                 </connections>
@@ -107,6 +116,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rTW-M3-TMz">
                                                 <rect key="frame" x="87.666666666666671" y="0.0" width="80.000000000000014" height="75"/>
                                                 <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="eCD-1M-aYH"/>
                                                 </connections>
@@ -114,6 +124,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="seK-aA-owL">
                                                 <rect key="frame" x="175.66666666666666" y="0.0" width="79.666666666666657" height="75"/>
                                                 <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="elG-Vi-Xdz"/>
                                                 </connections>
@@ -121,6 +132,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hTd-jz-ceR">
                                                 <rect key="frame" x="263.33333333333331" y="0.0" width="79.666666666666686" height="75"/>
                                                 <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Cc4-Vb-odc"/>
                                                 </connections>
@@ -133,6 +145,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cdh-Ds-F2f">
                                                 <rect key="frame" x="0.0" y="0.0" width="79.666666666666671" height="75.333333333333329"/>
                                                 <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="UnA-c5-1WV"/>
                                                 </connections>
@@ -140,6 +153,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CJT-DS-ees">
                                                 <rect key="frame" x="87.666666666666671" y="0.0" width="80.000000000000014" height="75.333333333333329"/>
                                                 <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="79H-TS-qLB"/>
                                                 </connections>
@@ -147,6 +161,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="R35-do-oGK">
                                                 <rect key="frame" x="175.66666666666666" y="0.0" width="79.666666666666657" height="75.333333333333329"/>
                                                 <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8Yy-Tx-p1n"/>
                                                 </connections>
@@ -154,6 +169,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="otY-wv-LXc">
                                                 <rect key="frame" x="263.33333333333331" y="0.0" width="79.666666666666686" height="75.333333333333329"/>
                                                 <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                                 <connections>
                                                     <action selector="touchCard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="wbu-QD-M1T"/>
                                                 </connections>
@@ -178,21 +194,23 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outletCollection property="cardButtons" destination="Dbo-0q-wwb" collectionClass="NSMutableArray" id="dQF-mJ-pjq"/>
-                        <outletCollection property="cardButtons" destination="YQC-UN-sVf" collectionClass="NSMutableArray" id="ava-Oj-BsR"/>
-                        <outletCollection property="cardButtons" destination="VCP-tv-u9v" collectionClass="NSMutableArray" id="Dwd-Xc-Fwh"/>
-                        <outletCollection property="cardButtons" destination="SWh-K8-hte" collectionClass="NSMutableArray" id="ZUC-RX-1ch"/>
-                        <outletCollection property="cardButtons" destination="vSb-9O-9oh" collectionClass="NSMutableArray" id="IqT-a5-eU4"/>
-                        <outletCollection property="cardButtons" destination="vIT-f5-pZS" collectionClass="NSMutableArray" id="yh4-Dz-8rs"/>
-                        <outletCollection property="cardButtons" destination="bd6-5v-BMm" collectionClass="NSMutableArray" id="D2L-CI-5uP"/>
-                        <outletCollection property="cardButtons" destination="QW9-Ke-Xk7" collectionClass="NSMutableArray" id="4Fn-kg-5Nd"/>
-                        <outletCollection property="cardButtons" destination="rTW-M3-TMz" collectionClass="NSMutableArray" id="Rjj-Km-x3r"/>
-                        <outletCollection property="cardButtons" destination="seK-aA-owL" collectionClass="NSMutableArray" id="leO-Bj-jPD"/>
-                        <outletCollection property="cardButtons" destination="hTd-jz-ceR" collectionClass="NSMutableArray" id="vPK-Dn-XHl"/>
-                        <outletCollection property="cardButtons" destination="cdh-Ds-F2f" collectionClass="NSMutableArray" id="egd-Pc-14X"/>
-                        <outletCollection property="cardButtons" destination="CJT-DS-ees" collectionClass="NSMutableArray" id="hIh-uF-A14"/>
-                        <outletCollection property="cardButtons" destination="R35-do-oGK" collectionClass="NSMutableArray" id="1g9-kW-cX9"/>
-                        <outletCollection property="cardButtons" destination="otY-wv-LXc" collectionClass="NSMutableArray" id="va2-wI-D1f"/>
+                        <outlet property="flipCountLabel" destination="f1J-cj-I4T" id="DkM-lh-aLg"/>
+                        <outletCollection property="cardButtons" destination="Dbo-0q-wwb" collectionClass="NSMutableArray" id="j0M-A9-Fvd"/>
+                        <outletCollection property="cardButtons" destination="YQC-UN-sVf" collectionClass="NSMutableArray" id="8JN-Wf-avU"/>
+                        <outletCollection property="cardButtons" destination="VCP-tv-u9v" collectionClass="NSMutableArray" id="RVx-91-2mA"/>
+                        <outletCollection property="cardButtons" destination="SWh-K8-hte" collectionClass="NSMutableArray" id="9Uo-9q-vWZ"/>
+                        <outletCollection property="cardButtons" destination="vSb-9O-9oh" collectionClass="NSMutableArray" id="Q62-lL-O7P"/>
+                        <outletCollection property="cardButtons" destination="vIT-f5-pZS" collectionClass="NSMutableArray" id="zOu-lY-KuR"/>
+                        <outletCollection property="cardButtons" destination="wBU-yg-4Rp" collectionClass="NSMutableArray" id="aUG-EX-iSD"/>
+                        <outletCollection property="cardButtons" destination="bd6-5v-BMm" collectionClass="NSMutableArray" id="oQa-jY-Pmj"/>
+                        <outletCollection property="cardButtons" destination="QW9-Ke-Xk7" collectionClass="NSMutableArray" id="Ndu-DB-O2g"/>
+                        <outletCollection property="cardButtons" destination="rTW-M3-TMz" collectionClass="NSMutableArray" id="edg-Jf-LFa"/>
+                        <outletCollection property="cardButtons" destination="seK-aA-owL" collectionClass="NSMutableArray" id="Viq-v0-TPm"/>
+                        <outletCollection property="cardButtons" destination="hTd-jz-ceR" collectionClass="NSMutableArray" id="xFs-hf-VV6"/>
+                        <outletCollection property="cardButtons" destination="cdh-Ds-F2f" collectionClass="NSMutableArray" id="IpT-Ae-zXh"/>
+                        <outletCollection property="cardButtons" destination="CJT-DS-ees" collectionClass="NSMutableArray" id="p7I-2H-4ZM"/>
+                        <outletCollection property="cardButtons" destination="R35-do-oGK" collectionClass="NSMutableArray" id="1nR-9R-Wsf"/>
+                        <outletCollection property="cardButtons" destination="otY-wv-LXc" collectionClass="NSMutableArray" id="4gO-0o-vX9"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
