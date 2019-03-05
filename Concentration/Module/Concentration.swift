@@ -8,25 +8,30 @@
 
 import Foundation
 
-class Concentration
+struct Concentration
 {
-    var cards = [Card]()
+    private(set) var cards = [Card]()
     
-    var indexOfOneAndOnlyFaceUpCard: Int?
+    private var indexOfOneAndOnlyFaceUpCard: Int? {
+        get {
+            return cards.indices.filter { cards[$0].isFaceUP }.oneAndOnly
+        }
+        set {
+            for index in cards.indices {
+                cards[index].isFaceUP = (index == newValue)
+            }
+        }
+    }
     
-    func chooseCard(at index:Int){
+    mutating func chooseCard(at index:Int){
         if !cards[index].isMatched {
-            cards[index].isFaceUP = true
             if let matchIndex = indexOfOneAndOnlyFaceUpCard, matchIndex != index {
-                if cards[matchIndex].identifier == cards[index].identifier {
+                if cards[matchIndex] == cards[index] {
                     cards[matchIndex].isMatched = true
                     cards[index].isMatched = true
                 }
-                indexOfOneAndOnlyFaceUpCard = nil
+                cards[index].isFaceUP = true
             } else {
-                for flipDownIndex in cards.indices {
-                    cards[flipDownIndex].isFaceUP = false
-                }
                 indexOfOneAndOnlyFaceUpCard = index
             }
         }
@@ -38,5 +43,11 @@ class Concentration
             cards += [card, card]
         }
         //cards = cards.shuffled()
+    }
+}
+
+extension Collection {
+    var oneAndOnly: Element? {
+        return count == 1 ? first : nil
     }
 }
